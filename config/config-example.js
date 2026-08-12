@@ -20,7 +20,7 @@ Config.whitelist = [
 // address bar is `Config.routes.client`.
 Config.defaultserver = {
 	id: 'showdown',
-	host: 'seal-draft-league.com',
+	host: 'server.seal-draft-league.com',
 	port: 443,
 	httpport: 8000,
 	altport: 80,
